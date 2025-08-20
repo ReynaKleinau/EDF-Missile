@@ -1,9 +1,9 @@
 # EDF-Missile
 A missile-looking drone powered by an EDF (electric ducted fan). Work in progress.
 
-![render][logo]
-
 [render]: https://github.com/ReynaKleinau/EDF-Missile/blob/main/photo_2025-08-20%2018.28.20.jpeg
+
+![render][logo]
 
 Roadmap:
 - define optimized printing procedures
